@@ -34,3 +34,8 @@ Para rodar a aplicação:
 1. Clone o repositório para sua máquina local:
    ```bash
    git clone URL_DO_REPOSITORIO
+
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](https://github.com/devjuliusotto/FIAP-IntegracaoOracle/blob/main/LICENSE.md) para mais detalhes.
