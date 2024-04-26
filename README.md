@@ -1,4 +1,4 @@
-# Sistema FINTECH - Gestão de Operações Financeiras (Sistema em constante Atualização)
+# Sistema FINTECH - Gestão de Operações Financeiras
 
 Este projeto consiste em uma aplicação Java que interage com um banco de dados Oracle para gerenciar diversas operações financeiras. O sistema permite a inserção, consulta e gerenciamento de dados relacionados a operações, operadores, transações e políticas de senha, entre outros.
 
