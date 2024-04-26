@@ -27,14 +27,6 @@ Este projeto consiste em uma aplicação Java que interage com um banco de dados
 
 Assegure-se de que o banco de dados Oracle está configurado corretamente com todas as tabelas e sequences necessárias. As definições das tabelas podem ser encontradas nos scripts SQL inclusos no diretório `sql/`.
 
-### Execução
-
-Para rodar a aplicação:
-
-1. Clone o repositório para sua máquina local:
-   ```bash
-   git clone URL_DO_REPOSITORIO
-
 
 ## Licença
 
