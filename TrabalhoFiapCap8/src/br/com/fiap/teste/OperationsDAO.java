@@ -7,8 +7,8 @@ import java.util.List;
 public class OperationsDAO {
 
     private String jdbcURL = "jdbc:oracle:thin:@oracle.fiap.com.br:1521:ORCL";
-    private String username = "RM554286";
-    private String password = "170304";
+    private String username = "otto";
+    private String password = "123456";
 
     private Connection getConnection() throws SQLException {
         // Asegura que o driver JDBC está carregado
